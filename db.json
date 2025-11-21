@@ -1,0 +1,22 @@
+{
+  "expenses": [
+    {
+      "id": "1",
+      "title": "Groceries",
+      "amount": 45,
+      "date": "2025-08-01"
+    },
+    {
+      "id": "2",
+      "title": "Electricity Bill",
+      "amount": 60,
+      "date": "2025-08-05"
+    },
+    {
+      "id": "0.3250413268306741",
+      "title": "jh",
+      "amount": 58888,
+      "date": "2025-10-25"
+    }
+  ]
+}
