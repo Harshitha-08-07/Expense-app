@@ -5,7 +5,7 @@ import './App.css'
 import { Route, Routes } from 'react-router-dom'
 import { Expense } from './Page/Expense'
 import { Addexpense } from './Page/Addexpense'
-import { Item } from './Page/item'
+import { Item } from './Page/Item'
 
 function App() {
   
